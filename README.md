@@ -1,4 +1,9 @@
 # Youshoku-Kobayashi_Tokyo-Sugamo
+
+CC-BY-4.0- RuinDig/Yuki Uchida
+
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png"></a></div>
+
 洋食小林【場所：東京都豊島区巣鴨】
 
 ![Youshoku-Kobayashi_Tokyo-Sugamo_01](https://user-images.githubusercontent.com/20723919/185786661-2ec50614-3557-4f31-b2e5-c585ddfe13c3.JPG)
